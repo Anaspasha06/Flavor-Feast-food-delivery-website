@@ -19,4 +19,4 @@ Some images of website
 
 
 
->>![image](https://github.com/Anaspasha06/Flavor-Feast-food-delivery-website/assets/168064277/fa947ff1-6e30-4cf7-8230-568a21283bc2)
+![image](https://github.com/Anaspasha06/Flavor-Feast-food-delivery-website/assets/168064277/fa947ff1-6e30-4cf7-8230-568a21283bc2)
