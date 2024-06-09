@@ -11,3 +11,5 @@ Setuping Python Flask
 
 >>For windows > venv\Scripts\activate
 >>For linux > source ./venv/bin/activate
+![image](https://github.com/Anaspasha06/Flavor-Feast-food-delivery-website/assets/168064277/e152aeda-316b-464e-a935-96e4d5af2eeb)
+>>![image](https://github.com/Anaspasha06/Flavor-Feast-food-delivery-website/assets/168064277/fa947ff1-6e30-4cf7-8230-568a21283bc2)
